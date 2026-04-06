@@ -1,16 +1,32 @@
-## Hi there 👋
+# 🛡️ TrustAsCode | Automating SOC2 & ISO27001 Compliance
 
-<!--
-**trustascode/trustascode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Bridging the gap between Code Velocity and Enterprise Trust.**
 
-Here are some ideas to get you started:
+I specialize in engineering automated compliance infrastructure for B2B SaaS companies. Instead of slowing down developers with manual security checks, I build **Policy-as-Code** guardrails and **DevSecOps** pipelines that enforce security natively within your CI/CD workflow.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### ⚙️ The Automation Arsenal
+
+I architect trust using industry-standard, cloud-native tools:
+
+* **Infrastructure-as-Code (IaC):** Terraform, OpenTofu
+* **Policy-as-Code:** OPA (Open Policy Agent), Rego, Checkov
+* **Container & Code Security:** Trivy, Semgrep, GitHub Actions / GitLab CI
+* **Cloud Platforms:** AWS, GCP
+
+---
+
+### 🚀 Core Capabilities
+
+- **SOC2 & ISO27001 Readiness:** Translating paper compliance into automated, auditable code.
+- **Zero-Friction CI/CD Gates:** Blocking misconfigurations and vulnerabilities *before* they reach production.
+- **Automated Evidence Generation:** Streamlining the audit process for fast, guaranteed compliance.
+
+---
+
+### 📬 Let's Secure Your Next Big Enterprise Deal
+
+Is your startup blocked from closing enterprise deals due to compliance requirements? Let's automate your path to SOC2.
+
+🔗 **Connect with me on LinkedIn:** [linkedin.com/in/trustascode](https://www.linkedin.com/in/trustascode)
